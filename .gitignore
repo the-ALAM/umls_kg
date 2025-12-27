@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+data/*
+ctx/*
+# rel_mod_old/*
+
+*.db
+*.duckdb
